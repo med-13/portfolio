@@ -17,10 +17,6 @@
     border-right:1px solid #bbb;
 }
 
-.navbar--item:last-child {
-    border-right: none;
-}
-
 .navbar--item a {
     display: block;
     color: white;
@@ -30,10 +26,10 @@
 }
 
 navbar--item a:hover:not(.active) {
-    background-color: #111;
+    background-color: #e22a2a;
 }
 
-.active {
+.navbar--item a:hover {
     background-color: #4CAF50;
 }
 
