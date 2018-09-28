@@ -40,3 +40,14 @@ navbar--item a:hover:not(.active) {
 .navbar_Name {
   float: left;
 }
+
+.home {
+    background-color: #4CAF50;
+    height: 900px;
+}
+
+.home-section {
+    width: 900px;
+    margin: auto;
+    background-color: aqua;
+}
